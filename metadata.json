@@ -1,0 +1,7 @@
+{
+  "name": "HomaPath Pro",
+  "description": "Plataforma profesional de Metodología Clínica Homeopática basada en la sinopsis de 1er, 2do y 3er nivel. Gestión de casos, repertorización inteligente y seguimiento dinámico.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
